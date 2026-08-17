@@ -2,6 +2,10 @@
 
 Machine learning analysis of 25,000 student records to identify the strongest predictors of job placement and salary outcomes. Presented at the 2026 CSUF Summer Symposium (Poster 166A), through the Summer Undergraduate Research Academy (SUReA) under faculty mentor Dr. Doina Bein.
 
+## 📄 Poster
+
+![Project Poster](poster.jpg)
+
 ## 🎯 Project Overview
 
 Students are constantly told to "keep your GPA up," "build projects," and "do internships" — but this advice is rarely tested against real data. This project uses machine learning to answer two questions:
